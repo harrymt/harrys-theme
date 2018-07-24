@@ -1,0 +1,16 @@
+/*
+Theme Name: Harry's Theme
+Theme URI: http://www.github.com/harrymt/harrys-theme
+Author: Harry Mumford-Turner
+Author URI: http://harrymt.com
+Description: A minimal theme used in example videos.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: minimal theme
+*/
+h1 {
+  color: forestgreen;
+  font-weight: bold;
+  font-family: sans-serif;
+}
